@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\atividade_DS\atividade_DS\obj\Debug\atividade_DS.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\atividade_DS\atividade_DS\obj\Debug\atividade_DS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\atividade_DS\atividade_DS\bin\Debug\atividade_DS.exe.config
+C:\Users\Aluno\source\repos\atividade_DS\atividade_DS\bin\Debug\atividade_DS.exe
+C:\Users\Aluno\source\repos\atividade_DS\atividade_DS\bin\Debug\atividade_DS.pdb
+C:\Users\Aluno\source\repos\atividade_DS\atividade_DS\obj\Debug\atividade_DS.exe
+C:\Users\Aluno\source\repos\atividade_DS\atividade_DS\obj\Debug\atividade_DS.pdb
